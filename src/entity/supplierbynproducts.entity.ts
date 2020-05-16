@@ -9,3 +9,4 @@ export class ViewSuppliersByNProducts{
     @ViewColumn()
     number_products: number
 }
+
